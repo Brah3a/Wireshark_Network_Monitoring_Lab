@@ -68,12 +68,12 @@ This Home-Lab covers:
 
 
 ## 🧑‍💻Excercises- Malware Traffic Analysis
-- Examining [Emotet Infection](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/blob/main/Example-1-2021-01-06-Emotet-infection.pcap.zip) Traffic  
+- Examining [Emotet Infection](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/raw/main/Example-1-2021-01-06-Emotet-infection.pcap.zip) Traffic  
 
-- Examining Emotet with [Spambot traffic](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/blob/main/Example-2-2021-01-05-Emotet-with-spambot-traffic-part-1.pcap.zip)  
-- Examining Emotet with [Trickbot](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/blob/main/Example-4-2021-01-05-Emotet-infection-with-Trickbot.pcap.zip) pcap  
+- Examining Emotet with [Spambot traffic](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/raw/main/Example-2-2021-01-05-Emotet-with-spambot-traffic-part-1.pcap.zip)  
+- Examining Emotet with [Trickbot](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/raw/main/Example-4-2021-01-05-Emotet-infection-with-Trickbot.pcap.zip) pcap  
 
-- Analyzing Emotet Infection with [Qakbot](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/blob/main/Example-5-2020-08-18-Emotet-infection-with-Qakbot.pcap.zip) pcap
+- Analyzing Emotet Infection with [Qakbot](https://github.com/pan-unit42/wireshark-tutorial-Emotet-traffic/raw/main/Example-5-2020-08-18-Emotet-infection-with-Qakbot.pcap.zip) pcap
 
 
 
