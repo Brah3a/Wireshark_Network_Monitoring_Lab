@@ -3,13 +3,12 @@
 ## ℹ️Overview
 
 This home lab is focused on setting up Wireshark Home-Lab and getting hands-on with practical scenarios. If you are a Network Security Engineer, SOC Analyst, or Aspirant Security Analyst, this home lab will help you with Network Analysis, Security Forensics, and Malware Traffic Analysis.
-![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (5)](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab/assets/40385860/81430310-06cb-4636-b528-2b533a84010a)
 
 
 This Home-Lab covers:
 - [Requirement](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#requirements)
 - [Lab Diagram](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
-- [Setting up Wireshark Home-Lab](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#-setting-up-Wireshark_Network_Monitoring_Lab)
+- [Setting up Wireshark Home-Lab](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#setting-up-Wireshark_Network_Monitoring_Lab)
 - [Excercises- Network Analysis](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#excercises--network-analysis)
 - [Exercises- Security Forensics](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#excercises--security-forensics)
 - [Exercises- Malware Traffic Analysis](https://github.com/Brah3a/Wireshark_Network_Monitoring_Lab?tab=readme-ov-file#excercises--malware-traffic-analysis)
@@ -23,14 +22,14 @@ This Home-Lab covers:
 
 ## 🖼️Lab Diagram
 
-![Home-Lab (1)](https://github.com/Brah3a/Home-Lab/assets/40385860/97c81520-b7f0-468a-a8d1-67d67d6dccd8)
+![Home-Lab (1)](303753080-97c81520-b7f0-468a-a8d1-67d67d6dccd8.png)
 
 
 ## </> Setting up Wireshark Home-Lab
 
 - Download and Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)  
 - Download and import [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines) in Virtualbox  
-- Download and import [Windows 11](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) in Virtualbox  
+- Download and import [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) in Virtualbox  
 - Download and install [Wireshark](https://www.wireshark.org/download.html) on Windows 11  
 
 
